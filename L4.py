@@ -77,3 +77,4 @@ if __name__ == "__main__":
     # Генератор площадей
     areas = list(records.iterate_areas())
     print(f"\nПлощади: {areas}")
+# Что-то
